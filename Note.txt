@@ -1,1 +1,2 @@
 In this repository I've uploaded a Blog website that is responsive and fit to all devices, including desktop, tablet, and mobile.
+Uploaded direct link: https://salmanfarcy78.github.io/Assignment
