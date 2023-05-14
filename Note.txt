@@ -1,0 +1,1 @@
+In this repository I've uploaded a Blog website that is responsive and fit to all devices, including desktop, tablet, and mobile.
